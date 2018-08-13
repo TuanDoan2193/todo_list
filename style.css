@@ -1,0 +1,13 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.card-header {
+  margin-top: 0.5rem;
+}
+
+.clear-tasks {
+  margin-top: 1.2rem;
+}
